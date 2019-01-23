@@ -1,10 +1,10 @@
 # PinNumber
 *Return a list of 1000 unique pin numbers which meets the criteria set out below:*
-*• Pin numbers must:*
-*1. Be 4 Digits*
-*2. Cannot have incremental digits, e.g. 1234, or 1248*
-*3. Cannot have repeated digits, e.g. 8888, or 8863*
-*• In the list of 1000, we cannot have repeated pin numbers (this is the unique criteria)*
+- *Pin numbers must:*
+1. *Be 4 Digits*
+2. *Cannot have incremental digits, e.g. 1234, or 1248*
+3. *Cannot have repeated digits, e.g. 8888, or 8863*
+- *In the list of 1000, we cannot have repeated pin numbers (this is the unique criteria)*
 
 ## Architecture
 Pin number has 3 projects:
