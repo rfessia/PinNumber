@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinNumber.UI", "PinNumber.UI\PinNumber.UI.csproj", "{8E143959-F052-4953-B9A8-FCC472FE9E29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinNumber.Generator", "PinNumber.Generator\PinNumber.Generator.csproj", "{AC463138-D639-45D5-A8E9-4C5DDB08D42D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinNumber.Test", "PinNumber.Test\PinNumber.Test.csproj", "{A00AB9AD-FBFC-46D2-8035-C7D4033B12BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E143959-F052-4953-B9A8-FCC472FE9E29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E143959-F052-4953-B9A8-FCC472FE9E29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E143959-F052-4953-B9A8-FCC472FE9E29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E143959-F052-4953-B9A8-FCC472FE9E29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC463138-D639-45D5-A8E9-4C5DDB08D42D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC463138-D639-45D5-A8E9-4C5DDB08D42D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC463138-D639-45D5-A8E9-4C5DDB08D42D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC463138-D639-45D5-A8E9-4C5DDB08D42D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A00AB9AD-FBFC-46D2-8035-C7D4033B12BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A00AB9AD-FBFC-46D2-8035-C7D4033B12BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A00AB9AD-FBFC-46D2-8035-C7D4033B12BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A00AB9AD-FBFC-46D2-8035-C7D4033B12BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

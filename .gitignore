@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/PinNumber/bin/Debug
+/src/PinNumber/obj/Debug
+/src/PinNumber.Generator/bin/Debug
+/src/PinNumber.Generator/obj/Debug
+/src/PinNumber.Test/bin/Debug
+/src/PinNumber.Test/obj/Debug
+/src/PinNumber.UI/bin/Debug
+/src/PinNumber.UI/obj/Debug
+/src/TestResults
